@@ -1,0 +1,4 @@
+"Name","SamAccountName","Finding"
+"Administrator","Administrator","Password Never Expires"
+"Guest","Guest","Password Never Expires"
+"Administrator","Administrator","Domain Admin Member"
